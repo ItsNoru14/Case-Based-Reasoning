@@ -1,0 +1,14 @@
+[
+  {
+    "query_id": "Q3",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatan tanggal 25februari 2025 yang diterima dan didaftarkan di kepaniteraan pengadilan negerisukoharjo pada tanggal 7 maret 2025 dalam register nomor 19/pdt.g/2025/pnskh, telah mengajukan gugatan sebagai berikut: bersama surat ini para penggugat mengajukan gugatan harta warisdari pewaris yang bernama almarhumah narti. adapun yang menjadi dasar /alasan dari gugatan tersebut adalah :1.bahwa tergugat adalah anak dari alm. panut prapto raharjo y",
+    "ground_truth": "25",
+    "predicted": [
+      "63",
+      "35",
+      "40",
+      "44",
+      "36"
+    ]
+  }
+]

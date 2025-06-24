@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "Q1",
+    "query_text": "duduk perkaranyamenimbang, bahwa para penggugat telah mengajukan gugatanpelaksaaan akta waris terhadap para tergugat dengan suratnya tertanggal 14oktober 2024, yang didaftarkan di kantor kepaniteraan pengadilan negerijakarta selatan pada tanggal 22 oktober 2024 dengan nomor register1090 /pdt.g/ 2024 /pn.jkt.sel., yang pada pokoknya mereka mengajukan dalil-dalil sebagai berikut :a.akta wasiat no. 19 tanggal 13 mei 1997, dibuat di hadapanwinarti lukman widjaja, s.h., notaris di jakarta adalahakta ",
+    "ground_truth_case_id": "6"
+  },
+  {
+    "query_id": "Q2",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatan tanggal 12desember yang diterima dan didaftarkan di kepaniteraan pengadilan negerimedan pada tanggal 16 desember 2024 dalam register nomor1097/pdt.g/2024/pn mdn, telah mengajukan gugatan sebagai berikut:1.bahwa almarhum bastian alkaban manalu dan almarhumah minaria borutambun adalah suami – istri yang sah bersadarkan surat keteranganperkawinan gereja hkbp resort sipeapea ;2.bahwa almarhum bastian alkaban manalu dan almarhumah minaria b",
+    "ground_truth_case_id": "7"
+  },
+  {
+    "query_id": "Q3",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatan tanggal 25februari 2025 yang diterima dan didaftarkan di kepaniteraan pengadilan negerisukoharjo pada tanggal 7 maret 2025 dalam register nomor 19/pdt.g/2025/pnskh, telah mengajukan gugatan sebagai berikut: bersama surat ini para penggugat mengajukan gugatan harta warisdari pewaris yang bernama almarhumah narti. adapun yang menjadi dasar /alasan dari gugatan tersebut adalah :1.bahwa tergugat adalah anak dari alm. panut prapto raharjo y",
+    "ground_truth_case_id": "25"
+  },
+  {
+    "query_id": "Q4",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatannya tanggal 28juli 2024 yang diterima dan didaftarkan di kepaniteraan pengadilan negerimedan, pada tanggal 26 agustus 2024 dalam register nomor746/pdt.g/2024/pn mdn, telah mengajukan gugatan sebagai berikut:1.bahwa orang tua kandung penggugat, turut tergugat i danturut tergugat ii yang bernama almarhum ir. husin sembiring,mba (selanjutnya disebut sebagai almarhum) dan tergugat yaituidawaty ginting, telah menikah pada tanggal 28 april 19",
+    "ground_truth_case_id": "68"
+  },
+  {
+    "query_id": "Q5",
+    "query_text": "duduk perkara(2.1)menimbang, bahwa penggugat dengan surat gugatan tanggal 3 maret2025 yang diterima dan didaftarkan di kepaniteraan pengadilan negeri kab.halaman 1 dari 17 putusan perdata gugatan nomor …….. mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia disclaimer kepaniteraan mahkamah agung republik indonesia berusaha untuk selalu mencantum",
+    "ground_truth_case_id": "53"
+  },
+  {
+    "query_id": "Q6",
+    "query_text": "duduk perkaramenimbang, bahwa para penggugat dengan surat gugatannya tanggal20 nopember 2024 yang diterima dan didaftarkan di kepaniteraan pengadilannegeri jakarta pusat pada tanggal 25 nopember 2024 dalam register nomor745/pdt.g /2024/pn.niaga jkt.pst., telah mengajukan gugatan sebagai berikut: d alam pokok perkara 1.bahwa para penggugat dan para tergugat adalah ahliwaris dari almarhum kenan jesayas silalahi dan almarhumah tiomartha dauruk yang telah menikah secara sah pada tanggal 11 juni1955,",
+    "ground_truth_case_id": "67"
+  },
+  {
+    "query_id": "Q7",
+    "query_text": "duduk perkara :menerima dan mengutip keadaan-keadaan mengenai duduk perkaraseperti tercantum dalam salinan resmi putusan pengadilan negeri sigli nomor17/pdt.g/2024/pn sgi tanggal 27 maret 2025 yang amarnya berbunyi sebagaiberikut:dalam konvensi:halaman 2 dari 9 hal. putusan nomor 36/pdt/2025/pt bna mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indone",
+    "ground_truth_case_id": "42"
+  },
+  {
+    "query_id": "Q8",
+    "query_text": "duduk perkarahalaman 1 dari 81 putusan perdata gugatan nomor 648/pdt.g/2024/pn mdn mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia disclaimer kepaniteraan mahkamah agung republik indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akuntab",
+    "ground_truth_case_id": "62"
+  },
+  {
+    "query_id": "Q9",
+    "query_text": "duduk perkara:menerima dan mengutip keadaan-keadaan mengenai duduk perkaraseperti tercantum dalam salinan resmi putusan pengadilan negeri lubukpakam tanggal 22 januari 2025 nomor 448/pdt.g/2024/pn lbp, yang amarnyaberbunyi sebagai berikut:dalam eksepsi:-menyatakan eksepsi tergugat tidak dapat diterima;dalam pokok perkara:dalam konpensi:1.mengabulkan gugatan penggugat untuk sebagian;2.menyatakan dan menetapkan:1.drs. robert lumban toruan (alm) digantikan oleh tergugat;2.yanti rauli lumban toruan ",
+    "ground_truth_case_id": "13"
+  },
+  {
+    "query_id": "Q10",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatannya tanggal 28 mei2024, dan didaftarkan di kepaniteraan pengadilan negeri medan kelas i-akhusus pada tanggal 28 mei 2024, dibawah register nomor424/pdt.g/2024/pn mdn, yang pada pokoknya adalah sebagai berikut;1bahwa alm. tolopan sarumpaet ba dengan almh. judikasimanjuntak adalah sepasang suami istri yang sah yang telahmeninggal dunia dan memiliki ahli waris sebagai berikut :1.herlina2.dorlina sarumpaet s.pd3.naodor4.almh. mirna jojor5.f",
+    "ground_truth_case_id": "46"
+  }
+]

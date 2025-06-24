@@ -1,0 +1,26 @@
+[
+  {
+    "query_id": "Q1",
+    "query_text": "duduk perkaranyamenimbang, bahwa para penggugat telah mengajukan gugatanpelaksaaan akta waris terhadap para tergugat dengan suratnya tertanggal 14oktober 2024, yang didaftarkan di kantor kepaniteraan pengadilan negerijakarta selatan pada tanggal 22 oktober 2024 dengan nomor register1090 /pdt.g/ 2024 /pn.jkt.sel., yang pada pokoknya mereka mengajukan dalil-dalil sebagai berikut :a.akta wasiat no. 19 tanggal 13 mei 1997, dibuat di hadapanwinarti lukman widjaja, s.h., notaris di jakarta adalahakta ",
+    "ground_truth": "6",
+    "predicted": [
+      "62"
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "query_text": "duduk perkaramenimbang, bahwa penggugat dengan surat gugatan tanggal 25februari 2025 yang diterima dan didaftarkan di kepaniteraan pengadilan negerisukoharjo pada tanggal 7 maret 2025 dalam register nomor 19/pdt.g/2025/pnskh, telah mengajukan gugatan sebagai berikut: bersama surat ini para penggugat mengajukan gugatan harta warisdari pewaris yang bernama almarhumah narti. adapun yang menjadi dasar /alasan dari gugatan tersebut adalah :1.bahwa tergugat adalah anak dari alm. panut prapto raharjo y",
+    "ground_truth": "25",
+    "predicted": [
+      "13"
+    ]
+  },
+  {
+    "query_id": "Q8",
+    "query_text": "duduk perkarahalaman 1 dari 81 putusan perdata gugatan nomor 648/pdt.g/2024/pn mdn mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia disclaimer kepaniteraan mahkamah agung republik indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akuntab",
+    "ground_truth": "62",
+    "predicted": [
+      "53"
+    ]
+  }
+]

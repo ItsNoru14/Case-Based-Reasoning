@@ -1,0 +1,498 @@
+2025-06-23 19:57:00,486 - INFO - SUKSES proses putusan_1001_pdt.g_2024_pn_sby_20250620183217.pdf -> case_001.txt. Chars: 61860->60524. Reduksi: 2.16%.
+2025-06-23 19:57:01,027 - INFO - SUKSES proses putusan_1042_pk_pdt_2024_20250620181821.pdf -> case_002.txt. Chars: 20452->18117. Reduksi: 11.42%.
+2025-06-23 19:57:01,679 - INFO - SUKSES proses putusan_1042_pk_pdt_2024_20250620181935.pdf -> case_003.txt. Chars: 20452->18117. Reduksi: 11.42%.
+2025-06-23 19:57:01,849 - INFO - SUKSES proses putusan_1074_pdt.g_2024_pn_sby_20250620180900.pdf -> case_004.txt. Chars: 6883->6657. Reduksi: 3.28%.
+2025-06-23 19:57:02,208 - WARNING - VALIDASI GAGAL untuk putusan_107_pdt.g_2024_pn_pal_20250620181515.pdf. Reduksi 28.08% melebihi ambang batas 20%.
+2025-06-23 19:57:02,210 - INFO - SUKSES proses putusan_107_pdt.g_2024_pn_pal_20250620181515.pdf -> case_005.txt. Chars: 17700->12729. Reduksi: 28.08%.
+2025-06-23 19:57:06,069 - INFO - SUKSES proses putusan_1090_pdt.g_2024_pn_jkt.sel_20250620181108.pdf -> case_006.txt. Chars: 176664->172939. Reduksi: 2.11%.
+2025-06-23 19:57:06,834 - INFO - SUKSES proses putusan_1097_pdt.g_2024_pn_mdn_20250620181215.pdf -> case_007.txt. Chars: 34873->34138. Reduksi: 2.11%.
+2025-06-23 19:57:07,842 - WARNING - VALIDASI GAGAL untuk putusan_1099_pk_pdt_2022_20250620181947.pdf. Reduksi 67.37% melebihi ambang batas 20%.
+2025-06-23 19:57:07,843 - INFO - SUKSES proses putusan_1099_pk_pdt_2022_20250620181947.pdf -> case_008.txt. Chars: 42816->13970. Reduksi: 67.37%.
+2025-06-23 19:57:08,100 - INFO - SUKSES proses putusan_1101_pdt.g_2024_pn_mdn_20250621013338.pdf -> case_009.txt. Chars: 12733->10244. Reduksi: 19.55%.
+2025-06-23 19:57:08,425 - INFO - SUKSES proses putusan_112_pdt.g_2025_pn_jkt.tim_20250620182858.pdf -> case_010.txt. Chars: 15072->14557. Reduksi: 3.42%.
+2025-06-23 19:57:08,861 - INFO - SUKSES proses putusan_121_pdt.g_2025_pn_mdn_20250620182527.pdf -> case_011.txt. Chars: 22089->21578. Reduksi: 2.31%.
+2025-06-23 19:57:09,082 - INFO - SUKSES proses putusan_1304_pdt.g_2024_pn_jkt.sel_20250620183847.pdf -> case_012.txt. Chars: 7969->7772. Reduksi: 2.47%.
+2025-06-23 19:57:09,577 - INFO - SUKSES proses putusan_137_pdt_2025_pt_mdn_20250620183426.pdf -> case_013.txt. Chars: 24088->23205. Reduksi: 3.67%.
+2025-06-23 19:57:09,775 - INFO - SUKSES proses putusan_139_pdt.g_2024_pn_bjm_20250620183345.pdf -> case_014.txt. Chars: 9085->8648. Reduksi: 4.81%.
+2025-06-23 19:57:10,223 - INFO - SUKSES proses putusan_141_pdt.g_2024_pn_bjm_20250620183503.pdf -> case_015.txt. Chars: 23326->19838. Reduksi: 14.95%.
+2025-06-23 19:57:11,273 - INFO - SUKSES proses putusan_1448_k_pdt_2025_20250620183034.pdf -> case_016.txt. Chars: 30589->27730. Reduksi: 9.35%.
+2025-06-23 19:57:11,790 - INFO - SUKSES proses putusan_162_pdt_2025_pt_smg_20250620183535.pdf -> case_017.txt. Chars: 23544->22268. Reduksi: 5.42%.
+2025-06-23 19:57:15,205 - INFO - SUKSES proses putusan_169_pdt.g_2022_pn_ckr_20250620180923.pdf -> case_018.txt. Chars: 190385->187014. Reduksi: 1.77%.
+2025-06-23 19:57:15,599 - WARNING - VALIDASI GAGAL untuk putusan_1732_k_pdt_2023_20250620182614.pdf. Reduksi 69.73% melebihi ambang batas 20%.
+2025-06-23 19:57:15,600 - INFO - SUKSES proses putusan_1732_k_pdt_2023_20250620182614.pdf -> case_019.txt. Chars: 15377->4654. Reduksi: 69.73%.
+2025-06-23 19:57:16,474 - WARNING - VALIDASI GAGAL untuk putusan_1750_k_pdt_2023_20250620182446.pdf. Reduksi 65.37% melebihi ambang batas 20%.
+2025-06-23 19:57:16,475 - INFO - SUKSES proses putusan_1750_k_pdt_2023_20250620182446.pdf -> case_020.txt. Chars: 43038->14902. Reduksi: 65.37%.
+2025-06-23 19:57:17,184 - WARNING - VALIDASI GAGAL untuk putusan_1758_k_pdt_2023_20250620182331.pdf. Reduksi 65.71% melebihi ambang batas 20%.
+2025-06-23 19:57:17,185 - INFO - SUKSES proses putusan_1758_k_pdt_2023_20250620182331.pdf -> case_021.txt. Chars: 24431->8378. Reduksi: 65.71%.
+2025-06-23 19:57:18,011 - INFO - SUKSES proses putusan_177_pdt.g_2025_pn_sby_20250621013555.pdf -> case_022.txt. Chars: 36895->36093. Reduksi: 2.17%.
+2025-06-23 19:57:20,282 - INFO - SUKSES proses putusan_17_pdt.g_2024_pn_sgi_20250621013256.pdf -> case_023.txt. Chars: 128087->120094. Reduksi: 6.24%.
+2025-06-23 19:57:21,584 - WARNING - VALIDASI GAGAL untuk putusan_185_pk_pdt_2025_20250620183049.pdf. Reduksi 68.11% melebihi ambang batas 20%.
+2025-06-23 19:57:21,586 - INFO - SUKSES proses putusan_185_pk_pdt_2025_20250620183049.pdf -> case_024.txt. Chars: 55496->17698. Reduksi: 68.11%.
+2025-06-23 19:57:23,703 - INFO - SUKSES proses putusan_19_pdt.g_2025_pn_skh_20250620182504.pdf -> case_025.txt. Chars: 56727->52467. Reduksi: 7.51%.
+2025-06-23 19:57:24,144 - INFO - SUKSES proses putusan_204_pdt.g_2025_pn_sby_20250620181017.pdf -> case_026.txt. Chars: 16277->15868. Reduksi: 2.51%.
+2025-06-23 19:57:27,465 - INFO - SUKSES proses putusan_212_pdt.g_2024_pn_dps_20250620180958.pdf -> case_027.txt. Chars: 148476->142247. Reduksi: 4.20%.
+2025-06-23 19:57:31,143 - INFO - SUKSES proses putusan_212_pdt.g_2024_pn_skt_20250621013843.pdf -> case_028.txt. Chars: 180989->175332. Reduksi: 3.13%.
+2025-06-23 19:57:31,568 - WARNING - VALIDASI GAGAL untuk putusan_215_pk_pdt_2025_20250620182942.pdf. Reduksi 67.10% melebihi ambang batas 20%.
+2025-06-23 19:57:31,568 - INFO - SUKSES proses putusan_215_pk_pdt_2025_20250620182942.pdf -> case_029.txt. Chars: 16976->5585. Reduksi: 67.10%.
+2025-06-23 19:57:32,314 - WARNING - VALIDASI GAGAL untuk putusan_218_pdt_2025_pt_smg_20250620182712.pdf. Reduksi 33.51% melebihi ambang batas 20%.
+2025-06-23 19:57:32,315 - INFO - SUKSES proses putusan_218_pdt_2025_pt_smg_20250620182712.pdf -> case_030.txt. Chars: 32096->21342. Reduksi: 33.51%.
+2025-06-23 19:57:33,100 - INFO - SUKSES proses putusan_248_pdt.g_2025_pn_sby_20250620180845.pdf -> case_031.txt. Chars: 46265->45288. Reduksi: 2.11%.
+2025-06-23 19:57:33,270 - INFO - SUKSES proses putusan_2493_k_pdt_2024_20250620181700.pdf -> case_032.txt. Chars: 9239->8941. Reduksi: 3.23%.
+2025-06-23 19:57:33,444 - INFO - SUKSES proses putusan_284_pdt.g_2024_pn_gin_20250621013149.pdf -> case_033.txt. Chars: 8386->7900. Reduksi: 5.80%.
+2025-06-23 19:57:38,647 - INFO - SUKSES proses putusan_28_pdt.g_2023_pn_bjm_20250620183409.pdf -> case_034.txt. Chars: 239509->231627. Reduksi: 3.29%.
+2025-06-23 19:57:40,005 - INFO - SUKSES proses putusan_28_pdt.g_2025_pn_bdg_20250620181230.pdf -> case_035.txt. Chars: 65182->63704. Reduksi: 2.27%.
+2025-06-23 19:57:42,816 - INFO - SUKSES proses putusan_30_pdt.g_2024_pn_pbl_20250621013208.pdf -> case_036.txt. Chars: 156628->151855. Reduksi: 3.05%.
+2025-06-23 19:57:43,191 - INFO - SUKSES proses putusan_3187_k_pdt_2024_20250620181543.pdf -> case_037.txt. Chars: 20779->19584. Reduksi: 5.75%.
+2025-06-23 19:57:46,354 - INFO - SUKSES proses putusan_331_pdt.g_2024_pn_bdg_20250621013541.pdf -> case_038.txt. Chars: 166424->157628. Reduksi: 5.29%.
+2025-06-23 19:57:46,862 - INFO - SUKSES proses putusan_34_pdt.g_2025_pt_ptk_20250620183912.pdf -> case_039.txt. Chars: 23808->22655. Reduksi: 4.84%.
+2025-06-23 19:57:47,739 - INFO - SUKSES proses putusan_352_pdt_2025_pt_sby_20250620182741.pdf -> case_040.txt. Chars: 29694->28502. Reduksi: 4.01%.
+2025-06-23 19:57:48,855 - WARNING - VALIDASI GAGAL untuk putusan_360_pk_pdt_2025_20250620175226.pdf. Reduksi 66.21% melebihi ambang batas 20%.
+2025-06-23 19:57:48,855 - INFO - SUKSES proses putusan_360_pk_pdt_2025_20250620175226.pdf -> case_041.txt. Chars: 46861->15834. Reduksi: 66.21%.
+2025-06-23 19:57:49,716 - INFO - SUKSES proses putusan_36_pdt_2025_pt_bna_20250620180937.pdf -> case_042.txt. Chars: 25147->24297. Reduksi: 3.38%.
+2025-06-23 19:57:50,015 - INFO - SUKSES proses putusan_37_pdt.g_2025_pn_mdn_20250621013358.pdf -> case_043.txt. Chars: 13333->12854. Reduksi: 3.59%.
+2025-06-23 19:57:50,553 - INFO - SUKSES proses putusan_380_pdt_2025_pt_dki_20250621013504.pdf -> case_044.txt. Chars: 18808->18174. Reduksi: 3.37%.
+2025-06-23 19:57:51,100 - WARNING - VALIDASI GAGAL untuk putusan_3_pk_pdt_2025_20250620182109.pdf. Reduksi 69.03% melebihi ambang batas 20%.
+2025-06-23 19:57:51,102 - INFO - SUKSES proses putusan_3_pk_pdt_2025_20250620182109.pdf -> case_045.txt. Chars: 27052->8378. Reduksi: 69.03%.
+2025-06-23 19:57:53,230 - INFO - SUKSES proses putusan_424_pdt.g_2024_pn_mdn_20250621013412.pdf -> case_046.txt. Chars: 109053->106808. Reduksi: 2.06%.
+2025-06-23 19:57:53,930 - WARNING - VALIDASI GAGAL untuk putusan_435_pk_pdt_2024_20250620182311.pdf. Reduksi 68.96% melebihi ambang batas 20%.
+2025-06-23 19:57:53,930 - INFO - SUKSES proses putusan_435_pk_pdt_2024_20250620182311.pdf -> case_047.txt. Chars: 23994->7447. Reduksi: 68.96%.
+2025-06-23 19:57:54,992 - INFO - SUKSES proses putusan_440_pdt_2025_pt_dki_20250620183150.pdf -> case_048.txt. Chars: 54365->53324. Reduksi: 1.91%.
+2025-06-23 19:57:56,094 - WARNING - VALIDASI GAGAL untuk putusan_457_pk_pdt_2024_20250620182432.pdf. Reduksi 68.77% melebihi ambang batas 20%.
+2025-06-23 19:57:56,096 - INFO - SUKSES proses putusan_457_pk_pdt_2024_20250620182432.pdf -> case_049.txt. Chars: 38770->12106. Reduksi: 68.77%.
+2025-06-23 19:57:56,354 - INFO - SUKSES proses putusan_465_pdt.g_2025_pn_sby_20250620181034.pdf -> case_050.txt. Chars: 12184->11833. Reduksi: 2.88%.
+2025-06-23 19:57:57,047 - INFO - SUKSES proses putusan_483_pdt_2025_pt_dki_20250620183013.pdf -> case_051.txt. Chars: 33868->32952. Reduksi: 2.70%.
+2025-06-23 19:57:57,551 - WARNING - VALIDASI GAGAL untuk putusan_4866_k_pdt_2024_20250620181615.pdf. Reduksi 70.03% melebihi ambang batas 20%.
+2025-06-23 19:57:57,554 - INFO - SUKSES proses putusan_4866_k_pdt_2024_20250620181615.pdf -> case_052.txt. Chars: 18638->5585. Reduksi: 70.03%.
+2025-06-23 19:57:58,415 - INFO - SUKSES proses putusan_4_pdt.g_2025_pn_mjy_20250620181055.pdf -> case_053.txt. Chars: 44005->43077. Reduksi: 2.11%.
+2025-06-23 19:57:58,885 - INFO - SUKSES proses putusan_5212_k_pdt_2024_20250620183834.pdf -> case_054.txt. Chars: 24563->21872. Reduksi: 10.96%.
+2025-06-23 19:57:59,598 - INFO - SUKSES proses putusan_5237_k_pdt_2024_20250620183818.pdf -> case_055.txt. Chars: 41436->40181. Reduksi: 3.03%.
+2025-06-23 19:58:00,481 - WARNING - VALIDASI GAGAL untuk putusan_5516_k_pdt_2024_20250620181740.pdf. Reduksi 65.73% melebihi ambang batas 20%.
+2025-06-23 19:58:00,483 - INFO - SUKSES proses putusan_5516_k_pdt_2024_20250620181740.pdf -> case_056.txt. Chars: 29882->10242. Reduksi: 65.73%.
+2025-06-23 19:58:00,909 - INFO - SUKSES proses putusan_5522_k_pdt_2024_20250620183611.pdf -> case_057.txt. Chars: 23647->20868. Reduksi: 11.75%.
+2025-06-23 19:58:02,745 - INFO - SUKSES proses putusan_552_pdt.g_2024_pn_jkt.utr_20250620182814.pdf -> case_058.txt. Chars: 88103->86272. Reduksi: 2.08%.
+2025-06-23 19:58:03,531 - WARNING - VALIDASI GAGAL untuk putusan_5925_k_pdt_2024_20250620183105.pdf. Reduksi 67.55% melebihi ambang batas 20%.
+2025-06-23 19:58:03,534 - INFO - SUKSES proses putusan_5925_k_pdt_2024_20250620183105.pdf -> case_059.txt. Chars: 25820->8378. Reduksi: 67.55%.
+2025-06-23 19:58:04,591 - WARNING - VALIDASI GAGAL untuk putusan_62_pk_pdt_2025_20250620183126.pdf. Reduksi 67.97% melebihi ambang batas 20%.
+2025-06-23 19:58:04,593 - INFO - SUKSES proses putusan_62_pk_pdt_2025_20250620183126.pdf -> case_060.txt. Chars: 31975->10242. Reduksi: 67.97%.
+2025-06-23 19:58:05,681 - WARNING - VALIDASI GAGAL untuk putusan_6443_k_pdt_2024_20250621013436.pdf. Reduksi 65.78% melebihi ambang batas 20%.
+2025-06-23 19:58:05,682 - INFO - SUKSES proses putusan_6443_k_pdt_2024_20250621013436.pdf -> case_061.txt. Chars: 35377->12106. Reduksi: 65.78%.
+2025-06-23 19:58:10,873 - INFO - SUKSES proses putusan_648_pdt.g_2024_pn_mdn_20250620183233.pdf -> case_062.txt. Chars: 259962->255466. Reduksi: 1.73%.
+2025-06-23 19:58:11,395 - INFO - SUKSES proses putusan_67_pdt.g_2024_pn_pal_20250620181308.pdf -> case_063.txt. Chars: 23509->22886. Reduksi: 2.65%.
+2025-06-23 19:58:11,431 - INFO - SUKSES proses putusan_682_pdt.g_2024_pn_sby_20250621013325.pdf -> case_064.txt. Chars: 1093->1039. Reduksi: 4.94%.
+2025-06-23 19:58:12,099 - INFO - SUKSES proses putusan_695_pdt.g_2024_pn_jkt.tim_20250620183555.pdf -> case_065.txt. Chars: 29338->28553. Reduksi: 2.68%.
+2025-06-23 19:58:12,959 - INFO - SUKSES proses putusan_715_pdt.g_2024_pn_jkt.utr_20250620182835.pdf -> case_066.txt. Chars: 46672->45545. Reduksi: 2.41%.
+2025-06-23 19:58:14,462 - INFO - SUKSES proses putusan_745_pdt.g_2024_pn_jkt.pst_20250620182916.pdf -> case_067.txt. Chars: 73911->72375. Reduksi: 2.08%.
+2025-06-23 19:58:16,026 - INFO - SUKSES proses putusan_746_pdt.g_2024_pn_mdn_20250621013856.pdf -> case_068.txt. Chars: 86910->85360. Reduksi: 1.78%.
+2025-06-23 19:58:16,898 - INFO - SUKSES proses putusan_747_pk_pdt_2022_20250620182021.pdf -> case_069.txt. Chars: 46042->44724. Reduksi: 2.86%.
+2025-06-23 19:58:17,312 - INFO - SUKSES proses putusan_75_pdt.g_2025_pn_skt_20250620182756.pdf -> case_070.txt. Chars: 24566->21636. Reduksi: 11.93%.
+2025-06-23 19:58:18,141 - WARNING - VALIDASI GAGAL untuk putusan_777_pk_pdt_2023_20250620183000.pdf. Reduksi 64.52% melebihi ambang batas 20%.
+2025-06-23 19:58:18,142 - INFO - SUKSES proses putusan_777_pk_pdt_2023_20250620183000.pdf -> case_071.txt. Chars: 31498->11174. Reduksi: 64.52%.
+2025-06-23 19:58:18,328 - INFO - SUKSES proses putusan_79_pdt.g_2025_pn_gin_20250621013129.pdf -> case_072.txt. Chars: 8782->8317. Reduksi: 5.29%.
+2025-06-23 19:58:19,105 - INFO - SUKSES proses putusan_825_pk_pdt_2021_20250620182046.pdf -> case_073.txt. Chars: 42489->39526. Reduksi: 6.97%.
+2025-06-23 19:58:19,572 - INFO - SUKSES proses putusan_82_pdt.g_2025_pn_jkt.pst_20250620181429.pdf -> case_074.txt. Chars: 26883->26274. Reduksi: 2.27%.
+2025-06-23 19:58:20,599 - INFO - SUKSES proses putusan_85_pdt_2025_pt_mdn_20250621013516.pdf -> case_075.txt. Chars: 61537->59827. Reduksi: 2.78%.
+2025-06-23 19:58:21,116 - INFO - SUKSES proses putusan_86_pdt.g_2024_pn_bjm_20250620183521.pdf -> case_076.txt. Chars: 25616->22731. Reduksi: 11.26%.
+2025-06-23 19:58:21,693 - INFO - SUKSES proses putusan_8_pdt.g_2024_pn_mjl_20250620182628.pdf -> case_077.txt. Chars: 31791->31201. Reduksi: 1.86%.
+2025-06-23 19:58:22,204 - INFO - SUKSES proses putusan_911_pk_pdt_2021_20250620182151.pdf -> case_078.txt. Chars: 24079->21531. Reduksi: 10.58%.
+2025-06-23 19:58:22,758 - INFO - SUKSES proses putusan_942_pdt.g_2024_pn_dps_20250621013612.pdf -> case_079.txt. Chars: 31437->30504. Reduksi: 2.97%.
+2025-06-23 19:58:24,175 - INFO - SUKSES proses putusan_988_pdt.g_2024_pn_mdn_20250620182650.pdf -> case_080.txt. Chars: 84269->80383. Reduksi: 4.61%.
+[2025-06-23T20:06:48] ID: case_001 | Status: SUKSES | Integritas: 97.46% 
+[2025-06-23T20:06:48] ID: case_002 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-23T20:06:49] ID: case_003 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-23T20:06:49] ID: case_004 | Status: SUKSES | Integritas: 96.28% 
+[2025-06-23T20:06:49] ID: case_005 | Status: GAGAL_VALIDASI | Integritas: 71.63% HANYA 71.63% konten tersisa.
+[2025-06-23T20:06:53] ID: case_006 | Status: SUKSES | Integritas: 97.52% 
+[2025-06-23T20:06:54] ID: case_007 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-23T20:06:55] ID: case_008 | Status: SUKSES | Integritas: 92.07% 
+[2025-06-23T20:06:55] ID: case_009 | Status: SUKSES | Integritas: 80.14% 
+[2025-06-23T20:06:55] ID: case_010 | Status: SUKSES | Integritas: 95.79% 
+[2025-06-23T20:06:56] ID: case_011 | Status: SUKSES | Integritas: 97.32% 
+[2025-06-23T20:06:56] ID: case_012 | Status: SUKSES | Integritas: 97.15% 
+[2025-06-23T20:06:57] ID: case_013 | Status: SUKSES | Integritas: 95.87% 
+[2025-06-23T20:06:57] ID: case_014 | Status: SUKSES | Integritas: 94.75% 
+[2025-06-23T20:06:57] ID: case_015 | Status: SUKSES | Integritas: 84.70% 
+[2025-06-23T20:06:58] ID: case_016 | Status: SUKSES | Integritas: 89.92% 
+[2025-06-23T20:06:59] ID: case_017 | Status: SUKSES | Integritas: 93.82% 
+[2025-06-23T20:07:02] ID: case_018 | Status: SUKSES | Integritas: 97.89% 
+[2025-06-23T20:07:03] ID: case_019 | Status: SUKSES | Integritas: 83.63% 
+[2025-06-23T20:07:04] ID: case_020 | Status: SUKSES | Integritas: 96.53% 
+[2025-06-23T20:07:04] ID: case_021 | Status: SUKSES | Integritas: 89.80% 
+[2025-06-23T20:07:05] ID: case_022 | Status: SUKSES | Integritas: 97.10% 
+[2025-06-23T20:07:08] ID: case_023 | Status: SUKSES | Integritas: 93.41% 
+[2025-06-23T20:07:09] ID: case_024 | Status: SUKSES | Integritas: 92.50% 
+[2025-06-23T20:07:10] ID: case_025 | Status: SUKSES | Integritas: 92.12% 
+[2025-06-23T20:07:11] ID: case_026 | Status: SUKSES | Integritas: 97.12% 
+[2025-06-23T20:07:14] ID: case_027 | Status: SUKSES | Integritas: 95.44% 
+[2025-06-23T20:07:17] ID: case_028 | Status: SUKSES | Integritas: 96.48% 
+[2025-06-23T20:07:17] ID: case_029 | Status: SUKSES | Integritas: 85.00% 
+[2025-06-23T20:07:18] ID: case_030 | Status: GAGAL_VALIDASI | Integritas: 65.91% HANYA 65.91% konten tersisa.
+[2025-06-23T20:07:19] ID: case_031 | Status: SUKSES | Integritas: 97.55% 
+[2025-06-23T20:07:19] ID: case_032 | Status: SUKSES | Integritas: 96.23% 
+[2025-06-23T20:07:20] ID: case_033 | Status: SUKSES | Integritas: 93.85% 
+[2025-06-23T20:07:24] ID: case_034 | Status: SUKSES | Integritas: 96.31% 
+[2025-06-23T20:07:26] ID: case_035 | Status: SUKSES | Integritas: 97.02% 
+[2025-06-23T20:07:29] ID: case_036 | Status: SUKSES | Integritas: 96.63% 
+[2025-06-23T20:07:29] ID: case_037 | Status: SUKSES | Integritas: 93.86% 
+[2025-06-23T20:07:32] ID: case_038 | Status: SUKSES | Integritas: 94.04% 
+[2025-06-23T20:07:32] ID: case_039 | Status: SUKSES | Integritas: 94.78% 
+[2025-06-23T20:07:33] ID: case_040 | Status: SUKSES | Integritas: 95.61% 
+[2025-06-23T20:07:34] ID: case_041 | Status: SUKSES | Integritas: 94.35% 
+[2025-06-23T20:07:34] ID: case_042 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-23T20:07:35] ID: case_043 | Status: SUKSES | Integritas: 95.88% 
+[2025-06-23T20:07:35] ID: case_044 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-23T20:07:35] ID: case_045 | Status: SUKSES | Integritas: 88.64% 
+[2025-06-23T20:07:37] ID: case_046 | Status: SUKSES | Integritas: 97.60% 
+[2025-06-23T20:07:38] ID: case_047 | Status: SUKSES | Integritas: 87.15% 
+[2025-06-23T20:07:39] ID: case_048 | Status: SUKSES | Integritas: 97.72% 
+[2025-06-23T20:07:40] ID: case_049 | Status: SUKSES | Integritas: 91.11% 
+[2025-06-23T20:07:40] ID: case_050 | Status: SUKSES | Integritas: 96.71% 
+[2025-06-23T20:07:40] ID: case_051 | Status: SUKSES | Integritas: 96.93% 
+[2025-06-23T20:07:41] ID: case_052 | Status: SUKSES | Integritas: 82.56% 
+[2025-06-23T20:07:42] ID: case_053 | Status: SUKSES | Integritas: 97.49% 
+[2025-06-23T20:07:42] ID: case_054 | Status: SUKSES | Integritas: 88.68% 
+[2025-06-23T20:07:43] ID: case_055 | Status: SUKSES | Integritas: 96.59% 
+[2025-06-23T20:07:43] ID: case_056 | Status: SUKSES | Integritas: 92.62% 
+[2025-06-23T20:07:44] ID: case_057 | Status: SUKSES | Integritas: 87.91% 
+[2025-06-23T20:07:45] ID: case_058 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-23T20:07:46] ID: case_059 | Status: SUKSES | Integritas: 88.27% 
+[2025-06-23T20:07:47] ID: case_060 | Status: SUKSES | Integritas: 90.63% 
+[2025-06-23T20:07:47] ID: case_061 | Status: SUKSES | Integritas: 93.74% 
+[2025-06-23T20:07:52] ID: case_062 | Status: SUKSES | Integritas: 97.93% 
+[2025-06-23T20:07:53] ID: case_063 | Status: SUKSES | Integritas: 97.01% 
+[2025-06-23T20:07:53] ID: case_064 | Status: SUKSES | Integritas: 94.14% 
+[2025-06-23T20:07:53] ID: case_065 | Status: SUKSES | Integritas: 96.87% 
+[2025-06-23T20:07:54] ID: case_066 | Status: SUKSES | Integritas: 97.23% 
+[2025-06-23T20:07:56] ID: case_067 | Status: SUKSES | Integritas: 97.56% 
+[2025-06-23T20:07:58] ID: case_068 | Status: SUKSES | Integritas: 97.87% 
+[2025-06-23T20:07:59] ID: case_069 | Status: SUKSES | Integritas: 96.73% 
+[2025-06-23T20:07:59] ID: case_070 | Status: SUKSES | Integritas: 87.71% 
+[2025-06-23T20:08:00] ID: case_071 | Status: SUKSES | Integritas: 93.71% 
+[2025-06-23T20:08:00] ID: case_072 | Status: SUKSES | Integritas: 94.25% 
+[2025-06-23T20:08:01] ID: case_073 | Status: SUKSES | Integritas: 92.66% 
+[2025-06-23T20:08:02] ID: case_074 | Status: SUKSES | Integritas: 97.36% 
+[2025-06-23T20:08:03] ID: case_075 | Status: SUKSES | Integritas: 96.86% 
+[2025-06-23T20:08:03] ID: case_076 | Status: SUKSES | Integritas: 88.39% 
+[2025-06-23T20:08:04] ID: case_077 | Status: SUKSES | Integritas: 97.79% 
+[2025-06-23T20:08:05] ID: case_078 | Status: SUKSES | Integritas: 89.09% 
+[2025-06-23T20:08:05] ID: case_079 | Status: SUKSES | Integritas: 96.68% 
+[2025-06-23T20:08:07] ID: case_080 | Status: SUKSES | Integritas: 95.05% 
+[2025-06-24T18:32:13] ID: case_001 | Status: SUKSES | Integritas: 97.46% 
+[2025-06-24T18:32:14] ID: case_002 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-24T18:32:14] ID: case_003 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-24T18:32:14] ID: case_004 | Status: SUKSES | Integritas: 96.28% 
+[2025-06-24T18:32:15] ID: case_005 | Status: GAGAL_VALIDASI | Integritas: 71.63% HANYA 71.63% konten tersisa.
+[2025-06-24T18:32:19] ID: case_006 | Status: SUKSES | Integritas: 97.52% 
+[2025-06-24T18:32:19] ID: case_007 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-24T18:32:20] ID: case_008 | Status: SUKSES | Integritas: 92.07% 
+[2025-06-24T18:32:20] ID: case_009 | Status: SUKSES | Integritas: 80.14% 
+[2025-06-24T18:32:21] ID: case_010 | Status: SUKSES | Integritas: 95.79% 
+[2025-06-24T18:32:21] ID: case_011 | Status: SUKSES | Integritas: 97.32% 
+[2025-06-24T18:32:22] ID: case_012 | Status: SUKSES | Integritas: 97.15% 
+[2025-06-24T18:32:22] ID: case_013 | Status: SUKSES | Integritas: 95.87% 
+[2025-06-24T18:32:22] ID: case_014 | Status: SUKSES | Integritas: 94.75% 
+[2025-06-24T18:32:23] ID: case_015 | Status: SUKSES | Integritas: 84.70% 
+[2025-06-24T18:32:24] ID: case_016 | Status: SUKSES | Integritas: 89.92% 
+[2025-06-24T18:32:24] ID: case_017 | Status: SUKSES | Integritas: 93.82% 
+[2025-06-24T18:32:28] ID: case_018 | Status: SUKSES | Integritas: 97.89% 
+[2025-06-24T18:32:28] ID: case_019 | Status: SUKSES | Integritas: 83.63% 
+[2025-06-24T18:32:29] ID: case_020 | Status: SUKSES | Integritas: 96.53% 
+[2025-06-24T18:32:30] ID: case_021 | Status: SUKSES | Integritas: 89.80% 
+[2025-06-24T18:32:31] ID: case_022 | Status: SUKSES | Integritas: 97.10% 
+[2025-06-24T18:32:33] ID: case_023 | Status: SUKSES | Integritas: 93.41% 
+[2025-06-24T18:32:34] ID: case_024 | Status: SUKSES | Integritas: 92.50% 
+[2025-06-24T18:32:36] ID: case_025 | Status: SUKSES | Integritas: 92.12% 
+[2025-06-24T18:32:36] ID: case_026 | Status: SUKSES | Integritas: 97.12% 
+[2025-06-24T18:32:39] ID: case_027 | Status: SUKSES | Integritas: 95.44% 
+[2025-06-24T18:32:42] ID: case_028 | Status: SUKSES | Integritas: 96.48% 
+[2025-06-24T18:32:43] ID: case_029 | Status: SUKSES | Integritas: 85.00% 
+[2025-06-24T18:32:44] ID: case_030 | Status: GAGAL_VALIDASI | Integritas: 65.91% HANYA 65.91% konten tersisa.
+[2025-06-24T18:32:44] ID: case_031 | Status: SUKSES | Integritas: 97.55% 
+[2025-06-24T18:32:45] ID: case_032 | Status: SUKSES | Integritas: 96.23% 
+[2025-06-24T18:32:45] ID: case_033 | Status: SUKSES | Integritas: 93.85% 
+[2025-06-24T18:32:49] ID: case_034 | Status: SUKSES | Integritas: 96.31% 
+[2025-06-24T18:32:51] ID: case_035 | Status: SUKSES | Integritas: 97.02% 
+[2025-06-24T18:32:54] ID: case_036 | Status: SUKSES | Integritas: 96.63% 
+[2025-06-24T18:32:54] ID: case_037 | Status: SUKSES | Integritas: 93.86% 
+[2025-06-24T18:32:57] ID: case_038 | Status: SUKSES | Integritas: 94.04% 
+[2025-06-24T18:32:57] ID: case_039 | Status: SUKSES | Integritas: 94.78% 
+[2025-06-24T18:32:58] ID: case_040 | Status: SUKSES | Integritas: 95.61% 
+[2025-06-24T18:32:59] ID: case_041 | Status: SUKSES | Integritas: 94.35% 
+[2025-06-24T18:33:00] ID: case_042 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-24T18:33:00] ID: case_043 | Status: SUKSES | Integritas: 95.88% 
+[2025-06-24T18:33:00] ID: case_044 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-24T18:33:01] ID: case_045 | Status: SUKSES | Integritas: 88.64% 
+[2025-06-24T18:33:03] ID: case_046 | Status: SUKSES | Integritas: 97.60% 
+[2025-06-24T18:33:04] ID: case_047 | Status: SUKSES | Integritas: 87.15% 
+[2025-06-24T18:33:05] ID: case_048 | Status: SUKSES | Integritas: 97.72% 
+[2025-06-24T18:33:05] ID: case_049 | Status: SUKSES | Integritas: 91.11% 
+[2025-06-24T18:33:06] ID: case_050 | Status: SUKSES | Integritas: 96.71% 
+[2025-06-24T18:33:06] ID: case_051 | Status: SUKSES | Integritas: 96.93% 
+[2025-06-24T18:33:07] ID: case_052 | Status: SUKSES | Integritas: 82.56% 
+[2025-06-24T18:33:08] ID: case_053 | Status: SUKSES | Integritas: 97.49% 
+[2025-06-24T18:33:08] ID: case_054 | Status: SUKSES | Integritas: 88.68% 
+[2025-06-24T18:33:09] ID: case_055 | Status: SUKSES | Integritas: 96.59% 
+[2025-06-24T18:33:10] ID: case_056 | Status: SUKSES | Integritas: 92.62% 
+[2025-06-24T18:33:10] ID: case_057 | Status: SUKSES | Integritas: 87.91% 
+[2025-06-24T18:33:12] ID: case_058 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-24T18:33:12] ID: case_059 | Status: SUKSES | Integritas: 88.27% 
+[2025-06-24T18:33:13] ID: case_060 | Status: SUKSES | Integritas: 90.63% 
+[2025-06-24T18:33:15] ID: case_061 | Status: SUKSES | Integritas: 93.74% 
+[2025-06-24T18:33:20] ID: case_062 | Status: SUKSES | Integritas: 97.93% 
+[2025-06-24T18:33:21] ID: case_063 | Status: SUKSES | Integritas: 97.01% 
+[2025-06-24T18:33:21] ID: case_064 | Status: SUKSES | Integritas: 94.14% 
+[2025-06-24T18:33:22] ID: case_065 | Status: SUKSES | Integritas: 96.87% 
+[2025-06-24T18:33:23] ID: case_066 | Status: SUKSES | Integritas: 97.23% 
+[2025-06-24T18:33:25] ID: case_067 | Status: SUKSES | Integritas: 97.56% 
+[2025-06-24T18:33:27] ID: case_068 | Status: SUKSES | Integritas: 97.87% 
+[2025-06-24T18:33:28] ID: case_069 | Status: SUKSES | Integritas: 96.73% 
+[2025-06-24T18:33:29] ID: case_070 | Status: SUKSES | Integritas: 87.71% 
+[2025-06-24T18:33:30] ID: case_071 | Status: SUKSES | Integritas: 93.71% 
+[2025-06-24T18:33:30] ID: case_072 | Status: SUKSES | Integritas: 94.25% 
+[2025-06-24T18:33:31] ID: case_073 | Status: SUKSES | Integritas: 92.66% 
+[2025-06-24T18:33:31] ID: case_074 | Status: SUKSES | Integritas: 97.36% 
+[2025-06-24T18:33:32] ID: case_075 | Status: SUKSES | Integritas: 96.86% 
+[2025-06-24T18:33:33] ID: case_076 | Status: SUKSES | Integritas: 88.39% 
+[2025-06-24T18:33:34] ID: case_077 | Status: SUKSES | Integritas: 97.79% 
+[2025-06-24T18:33:34] ID: case_078 | Status: SUKSES | Integritas: 89.09% 
+[2025-06-24T18:33:35] ID: case_079 | Status: SUKSES | Integritas: 96.68% 
+[2025-06-24T18:33:37] ID: case_080 | Status: SUKSES | Integritas: 95.05% 
+[2025-06-24T20:55:02] ID: case_001 | Status: SUKSES | Integritas: 97.46% 
+[2025-06-24T20:55:03] ID: case_002 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-24T20:55:03] ID: case_003 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-24T20:55:03] ID: case_004 | Status: SUKSES | Integritas: 96.28% 
+[2025-06-24T20:55:04] ID: case_005 | Status: GAGAL_VALIDASI | Integritas: 71.63% HANYA 71.63% konten tersisa.
+[2025-06-24T20:55:08] ID: case_006 | Status: SUKSES | Integritas: 97.52% 
+[2025-06-24T20:55:11] ID: case_007 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-24T20:55:13] ID: case_008 | Status: SUKSES | Integritas: 92.07% 
+[2025-06-24T20:55:13] ID: case_009 | Status: SUKSES | Integritas: 80.14% 
+[2025-06-24T20:55:13] ID: case_010 | Status: SUKSES | Integritas: 95.79% 
+[2025-06-24T20:55:14] ID: case_011 | Status: SUKSES | Integritas: 97.32% 
+[2025-06-24T20:55:14] ID: case_012 | Status: SUKSES | Integritas: 97.15% 
+[2025-06-24T20:55:15] ID: case_013 | Status: SUKSES | Integritas: 95.87% 
+[2025-06-24T20:55:15] ID: case_014 | Status: SUKSES | Integritas: 94.75% 
+[2025-06-24T20:55:15] ID: case_015 | Status: SUKSES | Integritas: 84.70% 
+[2025-06-24T20:55:17] ID: case_016 | Status: SUKSES | Integritas: 89.92% 
+[2025-06-24T20:55:17] ID: case_017 | Status: SUKSES | Integritas: 93.82% 
+[2025-06-24T20:55:21] ID: case_018 | Status: SUKSES | Integritas: 97.89% 
+[2025-06-24T20:55:22] ID: case_019 | Status: SUKSES | Integritas: 83.63% 
+[2025-06-24T20:55:23] ID: case_020 | Status: SUKSES | Integritas: 96.53% 
+[2025-06-24T20:55:24] ID: case_021 | Status: SUKSES | Integritas: 89.80% 
+[2025-06-24T20:55:25] ID: case_022 | Status: SUKSES | Integritas: 97.10% 
+[2025-06-24T20:55:27] ID: case_023 | Status: SUKSES | Integritas: 93.41% 
+[2025-06-24T20:55:28] ID: case_024 | Status: SUKSES | Integritas: 92.50% 
+[2025-06-24T20:55:29] ID: case_025 | Status: SUKSES | Integritas: 92.12% 
+[2025-06-24T20:55:29] ID: case_026 | Status: SUKSES | Integritas: 97.12% 
+[2025-06-24T20:55:32] ID: case_027 | Status: SUKSES | Integritas: 95.44% 
+[2025-06-24T20:55:35] ID: case_028 | Status: SUKSES | Integritas: 96.48% 
+[2025-06-24T20:55:36] ID: case_029 | Status: SUKSES | Integritas: 85.00% 
+[2025-06-24T20:55:36] ID: case_030 | Status: GAGAL_VALIDASI | Integritas: 65.91% HANYA 65.91% konten tersisa.
+[2025-06-24T20:55:37] ID: case_031 | Status: SUKSES | Integritas: 97.55% 
+[2025-06-24T20:55:37] ID: case_032 | Status: SUKSES | Integritas: 96.23% 
+[2025-06-24T20:55:38] ID: case_033 | Status: SUKSES | Integritas: 93.85% 
+[2025-06-24T20:55:42] ID: case_034 | Status: SUKSES | Integritas: 96.31% 
+[2025-06-24T20:55:43] ID: case_035 | Status: SUKSES | Integritas: 97.02% 
+[2025-06-24T20:55:46] ID: case_036 | Status: SUKSES | Integritas: 96.63% 
+[2025-06-24T20:55:46] ID: case_037 | Status: SUKSES | Integritas: 93.86% 
+[2025-06-24T20:55:49] ID: case_038 | Status: SUKSES | Integritas: 94.04% 
+[2025-06-24T20:55:50] ID: case_039 | Status: SUKSES | Integritas: 94.78% 
+[2025-06-24T20:55:50] ID: case_040 | Status: SUKSES | Integritas: 95.61% 
+[2025-06-24T20:55:51] ID: case_041 | Status: SUKSES | Integritas: 94.35% 
+[2025-06-24T20:55:52] ID: case_042 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-24T20:55:52] ID: case_043 | Status: SUKSES | Integritas: 95.88% 
+[2025-06-24T20:55:52] ID: case_044 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-24T20:55:53] ID: case_045 | Status: SUKSES | Integritas: 88.64% 
+[2025-06-24T20:55:55] ID: case_046 | Status: SUKSES | Integritas: 97.60% 
+[2025-06-24T20:55:56] ID: case_047 | Status: SUKSES | Integritas: 87.15% 
+[2025-06-24T20:55:57] ID: case_048 | Status: SUKSES | Integritas: 97.72% 
+[2025-06-24T20:55:57] ID: case_049 | Status: SUKSES | Integritas: 91.11% 
+[2025-06-24T20:55:58] ID: case_050 | Status: SUKSES | Integritas: 96.71% 
+[2025-06-24T20:55:58] ID: case_051 | Status: SUKSES | Integritas: 96.93% 
+[2025-06-24T20:55:59] ID: case_052 | Status: SUKSES | Integritas: 82.56% 
+[2025-06-24T20:55:59] ID: case_053 | Status: SUKSES | Integritas: 97.49% 
+[2025-06-24T20:56:00] ID: case_054 | Status: SUKSES | Integritas: 88.68% 
+[2025-06-24T20:56:01] ID: case_055 | Status: SUKSES | Integritas: 96.59% 
+[2025-06-24T20:56:01] ID: case_056 | Status: SUKSES | Integritas: 92.62% 
+[2025-06-24T20:56:02] ID: case_057 | Status: SUKSES | Integritas: 87.91% 
+[2025-06-24T20:56:03] ID: case_058 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-24T20:56:04] ID: case_059 | Status: SUKSES | Integritas: 88.27% 
+[2025-06-24T20:56:05] ID: case_060 | Status: SUKSES | Integritas: 90.63% 
+[2025-06-24T20:56:06] ID: case_061 | Status: SUKSES | Integritas: 93.74% 
+[2025-06-24T20:56:10] ID: case_062 | Status: SUKSES | Integritas: 97.93% 
+[2025-06-24T20:56:11] ID: case_063 | Status: SUKSES | Integritas: 97.01% 
+[2025-06-24T20:56:11] ID: case_064 | Status: SUKSES | Integritas: 94.14% 
+[2025-06-24T20:56:11] ID: case_065 | Status: SUKSES | Integritas: 96.87% 
+[2025-06-24T20:56:12] ID: case_066 | Status: SUKSES | Integritas: 97.23% 
+[2025-06-24T20:56:14] ID: case_067 | Status: SUKSES | Integritas: 97.56% 
+[2025-06-24T20:56:15] ID: case_068 | Status: SUKSES | Integritas: 97.87% 
+[2025-06-24T20:56:16] ID: case_069 | Status: SUKSES | Integritas: 96.73% 
+[2025-06-24T20:56:16] ID: case_070 | Status: SUKSES | Integritas: 87.71% 
+[2025-06-24T20:56:17] ID: case_071 | Status: SUKSES | Integritas: 93.71% 
+[2025-06-24T20:56:17] ID: case_072 | Status: SUKSES | Integritas: 94.25% 
+[2025-06-24T20:56:18] ID: case_073 | Status: SUKSES | Integritas: 92.66% 
+[2025-06-24T20:56:19] ID: case_074 | Status: SUKSES | Integritas: 97.36% 
+[2025-06-24T20:56:20] ID: case_075 | Status: SUKSES | Integritas: 96.86% 
+[2025-06-24T20:56:20] ID: case_076 | Status: SUKSES | Integritas: 88.39% 
+[2025-06-24T20:56:21] ID: case_077 | Status: SUKSES | Integritas: 97.79% 
+[2025-06-24T20:56:21] ID: case_078 | Status: SUKSES | Integritas: 89.09% 
+[2025-06-24T20:56:22] ID: case_079 | Status: SUKSES | Integritas: 96.68% 
+[2025-06-24T20:56:23] ID: case_080 | Status: SUKSES | Integritas: 95.05% 
+[2025-06-25T00:08:49] ID: case_001 | Status: SUKSES | Integritas: 97.46% 
+[2025-06-25T00:08:50] ID: case_002 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-25T00:08:50] ID: case_003 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-25T00:08:50] ID: case_004 | Status: SUKSES | Integritas: 96.28% 
+[2025-06-25T00:08:50] ID: case_005 | Status: GAGAL_VALIDASI | Integritas: 71.63% HANYA 71.63% konten tersisa.
+[2025-06-25T00:08:54] ID: case_006 | Status: SUKSES | Integritas: 97.52% 
+[2025-06-25T00:08:55] ID: case_007 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-25T00:08:56] ID: case_008 | Status: SUKSES | Integritas: 92.07% 
+[2025-06-25T00:08:56] ID: case_009 | Status: SUKSES | Integritas: 80.14% 
+[2025-06-25T00:08:56] ID: case_010 | Status: SUKSES | Integritas: 95.79% 
+[2025-06-25T00:08:57] ID: case_011 | Status: SUKSES | Integritas: 97.32% 
+[2025-06-25T00:08:57] ID: case_012 | Status: SUKSES | Integritas: 97.15% 
+[2025-06-25T00:08:58] ID: case_013 | Status: SUKSES | Integritas: 95.87% 
+[2025-06-25T00:08:58] ID: case_014 | Status: SUKSES | Integritas: 94.75% 
+[2025-06-25T00:08:58] ID: case_015 | Status: SUKSES | Integritas: 84.70% 
+[2025-06-25T00:08:59] ID: case_016 | Status: SUKSES | Integritas: 89.92% 
+[2025-06-25T00:09:00] ID: case_017 | Status: SUKSES | Integritas: 93.82% 
+[2025-06-25T00:09:03] ID: case_018 | Status: SUKSES | Integritas: 97.89% 
+[2025-06-25T00:09:03] ID: case_019 | Status: SUKSES | Integritas: 83.63% 
+[2025-06-25T00:09:04] ID: case_020 | Status: SUKSES | Integritas: 96.53% 
+[2025-06-25T00:09:05] ID: case_021 | Status: SUKSES | Integritas: 89.80% 
+[2025-06-25T00:09:06] ID: case_022 | Status: SUKSES | Integritas: 97.10% 
+[2025-06-25T00:09:08] ID: case_023 | Status: SUKSES | Integritas: 93.41% 
+[2025-06-25T00:09:09] ID: case_024 | Status: SUKSES | Integritas: 92.50% 
+[2025-06-25T00:09:10] ID: case_025 | Status: SUKSES | Integritas: 92.12% 
+[2025-06-25T00:09:10] ID: case_026 | Status: SUKSES | Integritas: 97.12% 
+[2025-06-25T00:09:13] ID: case_027 | Status: SUKSES | Integritas: 95.44% 
+[2025-06-25T00:09:16] ID: case_028 | Status: SUKSES | Integritas: 96.48% 
+[2025-06-25T00:09:16] ID: case_029 | Status: SUKSES | Integritas: 85.00% 
+[2025-06-25T00:09:17] ID: case_030 | Status: GAGAL_VALIDASI | Integritas: 65.91% HANYA 65.91% konten tersisa.
+[2025-06-25T00:09:18] ID: case_031 | Status: SUKSES | Integritas: 97.55% 
+[2025-06-25T00:09:18] ID: case_032 | Status: SUKSES | Integritas: 96.23% 
+[2025-06-25T00:09:18] ID: case_033 | Status: SUKSES | Integritas: 93.85% 
+[2025-06-25T00:09:22] ID: case_034 | Status: SUKSES | Integritas: 96.31% 
+[2025-06-25T00:09:23] ID: case_035 | Status: SUKSES | Integritas: 97.02% 
+[2025-06-25T00:09:26] ID: case_036 | Status: SUKSES | Integritas: 96.63% 
+[2025-06-25T00:09:27] ID: case_037 | Status: SUKSES | Integritas: 93.86% 
+[2025-06-25T00:09:29] ID: case_038 | Status: SUKSES | Integritas: 94.04% 
+[2025-06-25T00:09:29] ID: case_039 | Status: SUKSES | Integritas: 94.78% 
+[2025-06-25T00:09:30] ID: case_040 | Status: SUKSES | Integritas: 95.61% 
+[2025-06-25T00:09:31] ID: case_041 | Status: SUKSES | Integritas: 94.35% 
+[2025-06-25T00:09:32] ID: case_042 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-25T00:09:32] ID: case_043 | Status: SUKSES | Integritas: 95.88% 
+[2025-06-25T00:09:32] ID: case_044 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-25T00:09:33] ID: case_045 | Status: SUKSES | Integritas: 88.64% 
+[2025-06-25T00:09:35] ID: case_046 | Status: SUKSES | Integritas: 97.60% 
+[2025-06-25T00:09:35] ID: case_047 | Status: SUKSES | Integritas: 87.15% 
+[2025-06-25T00:09:36] ID: case_048 | Status: SUKSES | Integritas: 97.72% 
+[2025-06-25T00:09:37] ID: case_049 | Status: SUKSES | Integritas: 91.11% 
+[2025-06-25T00:09:37] ID: case_050 | Status: SUKSES | Integritas: 96.71% 
+[2025-06-25T00:09:38] ID: case_051 | Status: SUKSES | Integritas: 96.93% 
+[2025-06-25T00:09:38] ID: case_052 | Status: SUKSES | Integritas: 82.56% 
+[2025-06-25T00:09:39] ID: case_053 | Status: SUKSES | Integritas: 97.49% 
+[2025-06-25T00:09:39] ID: case_054 | Status: SUKSES | Integritas: 88.68% 
+[2025-06-25T00:09:40] ID: case_055 | Status: SUKSES | Integritas: 96.59% 
+[2025-06-25T00:09:40] ID: case_056 | Status: SUKSES | Integritas: 92.62% 
+[2025-06-25T00:09:41] ID: case_057 | Status: SUKSES | Integritas: 87.91% 
+[2025-06-25T00:09:42] ID: case_058 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-25T00:09:43] ID: case_059 | Status: SUKSES | Integritas: 88.27% 
+[2025-06-25T00:09:44] ID: case_060 | Status: SUKSES | Integritas: 90.63% 
+[2025-06-25T00:09:44] ID: case_061 | Status: SUKSES | Integritas: 93.74% 
+[2025-06-25T00:09:49] ID: case_062 | Status: SUKSES | Integritas: 97.93% 
+[2025-06-25T00:09:49] ID: case_063 | Status: SUKSES | Integritas: 97.01% 
+[2025-06-25T00:09:49] ID: case_064 | Status: SUKSES | Integritas: 94.14% 
+[2025-06-25T00:09:50] ID: case_065 | Status: SUKSES | Integritas: 96.87% 
+[2025-06-25T00:09:51] ID: case_066 | Status: SUKSES | Integritas: 97.23% 
+[2025-06-25T00:09:52] ID: case_067 | Status: SUKSES | Integritas: 97.56% 
+[2025-06-25T00:09:54] ID: case_068 | Status: SUKSES | Integritas: 97.87% 
+[2025-06-25T00:09:54] ID: case_069 | Status: SUKSES | Integritas: 96.73% 
+[2025-06-25T00:09:55] ID: case_070 | Status: SUKSES | Integritas: 87.71% 
+[2025-06-25T00:09:56] ID: case_071 | Status: SUKSES | Integritas: 93.71% 
+[2025-06-25T00:09:56] ID: case_072 | Status: SUKSES | Integritas: 94.25% 
+[2025-06-25T00:09:57] ID: case_073 | Status: SUKSES | Integritas: 92.66% 
+[2025-06-25T00:09:57] ID: case_074 | Status: SUKSES | Integritas: 97.36% 
+[2025-06-25T00:09:58] ID: case_075 | Status: SUKSES | Integritas: 96.86% 
+[2025-06-25T00:09:58] ID: case_076 | Status: SUKSES | Integritas: 88.39% 
+[2025-06-25T00:09:59] ID: case_077 | Status: SUKSES | Integritas: 97.79% 
+[2025-06-25T00:10:00] ID: case_078 | Status: SUKSES | Integritas: 89.09% 
+[2025-06-25T00:10:00] ID: case_079 | Status: SUKSES | Integritas: 96.68% 
+[2025-06-25T00:10:02] ID: case_080 | Status: SUKSES | Integritas: 95.05% 
+[2025-06-25T01:31:24] ID: case_001 | Status: SUKSES | Integritas: 97.46% 
+[2025-06-25T01:31:25] ID: case_002 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-25T01:31:25] ID: case_003 | Status: SUKSES | Integritas: 88.24% 
+[2025-06-25T01:31:26] ID: case_004 | Status: SUKSES | Integritas: 96.28% 
+[2025-06-25T01:31:26] ID: case_005 | Status: GAGAL_VALIDASI | Integritas: 71.63% HANYA 71.63% konten tersisa.
+[2025-06-25T01:31:30] ID: case_006 | Status: SUKSES | Integritas: 97.52% 
+[2025-06-25T01:31:31] ID: case_007 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-25T01:31:32] ID: case_008 | Status: SUKSES | Integritas: 92.07% 
+[2025-06-25T01:31:32] ID: case_009 | Status: SUKSES | Integritas: 80.14% 
+[2025-06-25T01:31:32] ID: case_010 | Status: SUKSES | Integritas: 95.79% 
+[2025-06-25T01:31:33] ID: case_011 | Status: SUKSES | Integritas: 97.32% 
+[2025-06-25T01:31:33] ID: case_012 | Status: SUKSES | Integritas: 97.15% 
+[2025-06-25T01:31:34] ID: case_013 | Status: SUKSES | Integritas: 95.87% 
+[2025-06-25T01:31:34] ID: case_014 | Status: SUKSES | Integritas: 94.75% 
+[2025-06-25T01:31:34] ID: case_015 | Status: SUKSES | Integritas: 84.70% 
+[2025-06-25T01:31:35] ID: case_016 | Status: SUKSES | Integritas: 89.92% 
+[2025-06-25T01:31:36] ID: case_017 | Status: SUKSES | Integritas: 93.82% 
+[2025-06-25T01:31:40] ID: case_018 | Status: SUKSES | Integritas: 97.89% 
+[2025-06-25T01:31:40] ID: case_019 | Status: SUKSES | Integritas: 83.63% 
+[2025-06-25T01:31:41] ID: case_020 | Status: SUKSES | Integritas: 96.53% 
+[2025-06-25T01:31:42] ID: case_021 | Status: SUKSES | Integritas: 89.80% 
+[2025-06-25T01:31:42] ID: case_022 | Status: SUKSES | Integritas: 97.10% 
+[2025-06-25T01:31:45] ID: case_023 | Status: SUKSES | Integritas: 93.41% 
+[2025-06-25T01:31:46] ID: case_024 | Status: SUKSES | Integritas: 92.50% 
+[2025-06-25T01:31:47] ID: case_025 | Status: SUKSES | Integritas: 92.12% 
+[2025-06-25T01:31:47] ID: case_026 | Status: SUKSES | Integritas: 97.12% 
+[2025-06-25T01:31:50] ID: case_027 | Status: SUKSES | Integritas: 95.44% 
+[2025-06-25T01:31:53] ID: case_028 | Status: SUKSES | Integritas: 96.48% 
+[2025-06-25T01:31:53] ID: case_029 | Status: SUKSES | Integritas: 85.00% 
+[2025-06-25T01:31:54] ID: case_030 | Status: GAGAL_VALIDASI | Integritas: 65.91% HANYA 65.91% konten tersisa.
+[2025-06-25T01:31:55] ID: case_031 | Status: SUKSES | Integritas: 97.55% 
+[2025-06-25T01:31:55] ID: case_032 | Status: SUKSES | Integritas: 96.23% 
+[2025-06-25T01:31:55] ID: case_033 | Status: SUKSES | Integritas: 93.85% 
+[2025-06-25T01:32:00] ID: case_034 | Status: SUKSES | Integritas: 96.31% 
+[2025-06-25T01:32:01] ID: case_035 | Status: SUKSES | Integritas: 97.02% 
+[2025-06-25T01:32:03] ID: case_036 | Status: SUKSES | Integritas: 96.63% 
+[2025-06-25T01:32:04] ID: case_037 | Status: SUKSES | Integritas: 93.86% 
+[2025-06-25T01:32:06] ID: case_038 | Status: SUKSES | Integritas: 94.04% 
+[2025-06-25T01:32:07] ID: case_039 | Status: SUKSES | Integritas: 94.78% 
+[2025-06-25T01:32:07] ID: case_040 | Status: SUKSES | Integritas: 95.61% 
+[2025-06-25T01:32:08] ID: case_041 | Status: SUKSES | Integritas: 94.35% 
+[2025-06-25T01:32:09] ID: case_042 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-25T01:32:09] ID: case_043 | Status: SUKSES | Integritas: 95.88% 
+[2025-06-25T01:32:10] ID: case_044 | Status: SUKSES | Integritas: 96.26% 
+[2025-06-25T01:32:10] ID: case_045 | Status: SUKSES | Integritas: 88.64% 
+[2025-06-25T01:32:12] ID: case_046 | Status: SUKSES | Integritas: 97.60% 
+[2025-06-25T01:32:13] ID: case_047 | Status: SUKSES | Integritas: 87.15% 
+[2025-06-25T01:32:13] ID: case_048 | Status: SUKSES | Integritas: 97.72% 
+[2025-06-25T01:32:14] ID: case_049 | Status: SUKSES | Integritas: 91.11% 
+[2025-06-25T01:32:14] ID: case_050 | Status: SUKSES | Integritas: 96.71% 
+[2025-06-25T01:32:15] ID: case_051 | Status: SUKSES | Integritas: 96.93% 
+[2025-06-25T01:32:15] ID: case_052 | Status: SUKSES | Integritas: 82.56% 
+[2025-06-25T01:32:16] ID: case_053 | Status: SUKSES | Integritas: 97.49% 
+[2025-06-25T01:32:17] ID: case_054 | Status: SUKSES | Integritas: 88.68% 
+[2025-06-25T01:32:17] ID: case_055 | Status: SUKSES | Integritas: 96.59% 
+[2025-06-25T01:32:18] ID: case_056 | Status: SUKSES | Integritas: 92.62% 
+[2025-06-25T01:32:18] ID: case_057 | Status: SUKSES | Integritas: 87.91% 
+[2025-06-25T01:32:20] ID: case_058 | Status: SUKSES | Integritas: 97.54% 
+[2025-06-25T01:32:20] ID: case_059 | Status: SUKSES | Integritas: 88.27% 
+[2025-06-25T01:32:21] ID: case_060 | Status: SUKSES | Integritas: 90.63% 
+[2025-06-25T01:32:22] ID: case_061 | Status: SUKSES | Integritas: 93.74% 
+[2025-06-25T01:32:27] ID: case_062 | Status: SUKSES | Integritas: 97.93% 
+[2025-06-25T01:32:27] ID: case_063 | Status: SUKSES | Integritas: 97.01% 
+[2025-06-25T01:32:27] ID: case_064 | Status: SUKSES | Integritas: 94.14% 
+[2025-06-25T01:32:28] ID: case_065 | Status: SUKSES | Integritas: 96.87% 
+[2025-06-25T01:32:28] ID: case_066 | Status: SUKSES | Integritas: 97.23% 
+[2025-06-25T01:32:30] ID: case_067 | Status: SUKSES | Integritas: 97.56% 
+[2025-06-25T01:32:32] ID: case_068 | Status: SUKSES | Integritas: 97.87% 
+[2025-06-25T01:32:33] ID: case_069 | Status: SUKSES | Integritas: 96.73% 
+[2025-06-25T01:32:33] ID: case_070 | Status: SUKSES | Integritas: 87.71% 
+[2025-06-25T01:32:34] ID: case_071 | Status: SUKSES | Integritas: 93.71% 
+[2025-06-25T01:32:34] ID: case_072 | Status: SUKSES | Integritas: 94.25% 
+[2025-06-25T01:32:36] ID: case_073 | Status: SUKSES | Integritas: 92.66% 
+[2025-06-25T01:32:37] ID: case_074 | Status: SUKSES | Integritas: 97.36% 
+[2025-06-25T01:32:38] ID: case_075 | Status: SUKSES | Integritas: 96.86% 
+[2025-06-25T01:32:39] ID: case_076 | Status: SUKSES | Integritas: 88.39% 
+[2025-06-25T01:32:40] ID: case_077 | Status: SUKSES | Integritas: 97.79% 
+[2025-06-25T01:32:41] ID: case_078 | Status: SUKSES | Integritas: 89.09% 
+[2025-06-25T01:32:41] ID: case_079 | Status: SUKSES | Integritas: 96.68% 
+[2025-06-25T01:32:43] ID: case_080 | Status: SUKSES | Integritas: 95.05% 
