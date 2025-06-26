@@ -28,7 +28,7 @@ proyek-cbr/
 ├── CaseBase_Build.ipynb    # NOTEBOOK UTAMA: Berisi seluruh pipeline dari Tahap 1-5
 └── README.md               # Dokumentasi proyek ini
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 * **Python 3.8+**
 * **Jupyter Notebook**: Untuk pengembangan dan eksekusi pipeline secara interaktif.
 * **Library Utama**:
@@ -40,5 +40,6 @@ proyek-cbr/
     * **Matplotlib**: Untuk visualisasi data performa model.
     * **Tqdm**: Untuk menampilkan progress bar pada proses.
   
-## ⚙️ Instalasi
+## Instalasi
 Untuk menjalankan notebook ini di lingkungan baru, ikuti langkah-langkah berikut.
+1. **Clone Repositori
