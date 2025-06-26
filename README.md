@@ -42,4 +42,5 @@ proyek-cbr/
   
 ## Instalasi
 Untuk menjalankan notebook ini di lingkungan baru, ikuti langkah-langkah berikut.
-1. **Clone Repositori
+1. **Clone Repositori** : git clone [https://github.com/USERNAME/NAMA-REPOSITORI.git](https://github.com/USERNAME/NAMA-REPOSITORI.git)
+cd NAMA-REPOSITORI
