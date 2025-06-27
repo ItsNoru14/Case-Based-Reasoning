@@ -76,20 +76,20 @@ pip install -r requirements.txt
 Proses ini menjelaskan langkah-langkah yang harus dijalankan secara berurutan untuk menjalankan keseluruhan pipeline, mulai dari data mentah hingga hasil evaluasi model.
 
 ### Langkah 1: Persiapan Data Mentah (Input Awal)
-* **Aksi:** Letakkan semua file putusan hukum yang relevan dalam format `.pdf` ke dalam folder `downloads/`.
-* **Hasil:** Folder `downloads/` berisi semua data sumber yang siap diproses oleh pipeline.
+* **Aksi:** Letakkan semua file putusan hukum yang relevan dalam format `.pdf` ke dalam folder `data/raw/CBR Case`.
+* **Hasil:** Folder `data/raw/CBR Case` berisi semua data sumber yang siap diproses oleh pipeline.
 
 ### Langkah 2: Membangun & Merepresentasikan Case Base (Tahap 1 & 2)
-* **Aksi:** Jalankan sel-sel awal di notebook utama Anda (`CaseBase_Build.ipynb`) yang bertanggung jawab untuk memproses data mentah.
+* **Aksi:** Jalankan sel-sel awal di notebook utama (`CaseBase_Build.ipynb`) yang bertanggung jawab untuk memproses data mentah.
 * **Proses:**
-    1.  Skrip akan membaca setiap file `.pdf` dari folder `downloads/`.
+    1.  Skrip akan membaca setiap file `.pdf` dari folder `data/raw/CBR Case`.
     2.  Melakukan ekstraksi teks dan pembersihan (menghapus header, footer, dll.).
     3.  Menyimpan hasil teks bersih sebagai file `case_XXX.txt` di dalam folder `data/raw/`.
     4.  Membaca kembali setiap file teks bersih, lalu mengekstrak metadata terstruktur (nomor perkara, tanggal, pihak, pasal, amar putusan, dll.).
 * **Hasil:** Sebuah file database utama **`data/processed/cases.json`**. File ini berisi semua kasus Anda dalam format yang terstruktur dan menjadi dasar untuk semua tahapan selanjutnya.
 
 ### Langkah 3: Persiapan Model & Artefak (Tahap 3)
-* **Aksi:** Jalankan sel di notebook Anda yang berfungsi untuk melatih model dan mempersiapkan aset.
+* **Aksi:** Jalankan sel di notebook yang berfungsi untuk melatih model dan mempersiapkan aset.
 * **Proses:**
     1.  **Untuk Pipeline Naive Bayes**: Melatih model `MultinomialNB` dengan `TfidfVectorizer` dan menyimpannya sebagai `nb_pipeline.pkl`.
     2.  **Untuk Pipeline Cosine Similarity**: Membuat matriks `TF-IDF` dari seluruh korpus dan menyimpan matriks beserta *vectorizer*-nya.
@@ -101,7 +101,7 @@ Proses ini menjelaskan langkah-langkah yang harus dijalankan secara berurutan un
     * `data/eval/queries.json`: File berisi "soal ujian" untuk model.
 
 ### Langkah 4: Prediksi & Evaluasi (Tahap 4 & 5)
-* **Aksi:** Jalankan sel-sel terakhir di notebook Anda yang berisi logika untuk penggunaan model dan evaluasi.
+* **Aksi:** Jalankan sel-sel terakhir di notebook yang berisi logika untuk penggunaan model dan evaluasi.
 * **Proses:**
     1.  Memuat semua aset yang telah dibuat di Tahap 3.
     2.  Untuk setiap kueri di `queries.json`, kedua pipeline (Naive Bayes dan Cosine Similarity) akan dijalankan untuk menghasilkan prediksi solusi.
