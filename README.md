@@ -119,4 +119,4 @@ Anggota tim :
 * Dimas Arief Wicaksono (202210370311237)
 * Inzazi Nur Mujaini (202210370311246)
 
-**Terimakasih untuk Professor/Instruktur kami Ir.Galih Wasis Wicaksono S.kom., M.Cs. atas arahan dan support dalam menjalani proyek ini.**
+Terimakasih untuk Professor/Instruktur kami **Ir.Galih Wasis Wicaksono S.kom., M.Cs.** atas arahan dan support dalam menjalani proyek ini.
