@@ -112,3 +112,10 @@ Proses ini menjelaskan langkah-langkah yang harus dijalankan secara berurutan un
     * **Laporan Metrik**: File `.csv` di `data/eval/` yang berisi perbandingan skor performa kedua model.
     * **Visualisasi**: Gambar grafik batang (`.png`) yang membandingkan performa.
     * **Analisis Kesalahan**: File `.json` yang mencatat kueri-kueri yang gagal diprediksi dengan benar.
+
+## Lisensi
+Proyek ini dikembangkan sebagai tugas akhir mata kuliah Penalaran Komputer di Universitas Muhammadiyah Malang. Segala sumber daya, kode, dokumentasi ditujukan untuk keperluan tugas akhir dan harus di dokumentasikan di GitHub untuk syarat pengumpulan.
+Anggota tim :
+    * Dimas Arief Wicaksono (202210370311237)
+    * Inzazi Nur Mujaini (202210370311246)
+**Terimakasih untuk Professor/Instruktur kami Ir.Galih Wasis Wicaksono S.kom., M.Cs. atas arahan dan support dalam menjalani proyek ini.**
