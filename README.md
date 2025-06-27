@@ -116,6 +116,6 @@ Proses ini menjelaskan langkah-langkah yang harus dijalankan secara berurutan un
 ## Lisensi
 Proyek ini dikembangkan sebagai tugas akhir mata kuliah Penalaran Komputer di Universitas Muhammadiyah Malang. Segala sumber daya, kode, dokumentasi ditujukan untuk keperluan tugas akhir dan harus di dokumentasikan di GitHub untuk syarat pengumpulan.
 Anggota tim :
-    * Dimas Arief Wicaksono (202210370311237)
-    * Inzazi Nur Mujaini (202210370311246)
+* Dimas Arief Wicaksono (202210370311237)
+* Inzazi Nur Mujaini (202210370311246)
 **Terimakasih untuk Professor/Instruktur kami Ir.Galih Wasis Wicaksono S.kom., M.Cs. atas arahan dan support dalam menjalani proyek ini.**
