@@ -1,4 +1,4 @@
-# Sistem Case-Based Reasoning (CBR) untuk Putusan Hukum
+# Sistem Case-Based Reasoning Berbasis TF-IDF dan Cosine Similarity untuk Pencarian Kasus Waris Serupa pada Direktori Putusan Mahkamah Agung
 
 Fokus utama proyek ini adalah membandingkan dua pendekatan retrieval yang berbeda, keduanya menggunakan representasi teks TF-IDF:
 1.  **Retrieval Berbasis Kemiripan (TF-IDF + Cosine Similarity)**: Sebuah pendekatan pencarian murni untuk menemukan kasus-kasus yang paling mirip secara leksikal (berdasarkan kata kunci).
